@@ -1,0 +1,5 @@
+{
+  "name": "AI Workflow Bot",
+  "description": "A smart workflow management system that tracks progress, visualizes steps, calculates timelines, and uses AI to generate summaries and detect delays.",
+  "requestFramePermissions": []
+}
